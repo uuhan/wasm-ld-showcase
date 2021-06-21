@@ -8,6 +8,18 @@
 
 - [wasmer](https://github.com/wasmerio/wasmer) runner
 
+### Run
+
+```sh
+make
+
+# output:
+# ===== RUNNING RESULT =====:
+
+# wasmer run run.wasm
+# [C] 3 + 4 = 7
+```
+
 ### Issue
 
 Assemblyscript's relocatable module support is WIP:
