@@ -1,10 +1,10 @@
 ### Dependencies
 
-- [rustup] rust toolchain with `wasm32-wasi` target installed
+- **rustup** rust toolchain with `wasm32-wasi` target installed
 
-- [llvm&clang] tested version: 12.0.0
+- **llvm&clang** tested version: 12.0.0
 
-- [assemblyscript] npm install -g assemblyscript
+- **assemblyscript** npm install -g assemblyscript
 
 - [wasmer](https://github.com/wasmerio/wasmer) runner
 
